@@ -1,0 +1,6 @@
+dependencies:
+  - notebook
+  - conda-forge::jupyter-panel-proxy
+  - pyviz::hvplot
+  - pyviz::panel
+  - bokeh::bokeh
