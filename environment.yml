@@ -1,5 +1,5 @@
 dependencies:
-  - notebook
+  - scipy
   - conda-forge::jupyter-panel-proxy
   - pyviz::hvplot
   - pyviz::panel
